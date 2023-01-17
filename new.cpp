@@ -1,6 +1,6 @@
 #include<iostream>
 
-int main(){
+int main(){ // start main
 
 cout>>"hello world";
  
