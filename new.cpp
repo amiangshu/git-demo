@@ -7,3 +7,4 @@ cout>>"hello world";
 
 }// end main resolved conflict
 
+jkjsklj
